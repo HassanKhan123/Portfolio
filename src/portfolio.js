@@ -165,6 +165,13 @@ const workExperiences = {
       companylogo: require("./assets/images/xehen.jpg"),
       date: "October 2020 – February 2021",
       desc: ""
+    },
+    {
+      role: "Web & Mobile Engineer",
+      company: "Xord",
+      companylogo: require("./assets/images/xord.jpg"),
+      date: "February 2021 – Currently Working",
+      desc: ""
     }
   ]
 };
